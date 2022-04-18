@@ -68,7 +68,7 @@ global.packname = 'verdi botz'
 global.author = ' Bot'
 
 
-global.sessionName = 'hisoka'
+global.sessionName = 'BOTZ'
 
 
 global.prefa = ['','!','.','🐦','🐤','🗿']
